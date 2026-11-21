@@ -1,0 +1,39 @@
+Category	Software/Package	Version/Status	Notes
+Python audit runtime	Python	3.13.11	Anaconda base environment available in current audit session
+Python audit runtime	conda	26.1.1	Environment manager
+Python package	pandas	2.3.3	Detected in Anaconda base
+Python package	numpy	2.4.4	Detected in Anaconda base
+Python package	scipy	1.17.1	Detected in Anaconda base; required by shared helper statistics functions
+Python package	statsmodels	0.14.6	Detected in Anaconda base; used in upstream statistical workflows when needed
+Python package	matplotlib	3.10.9	Detected in Anaconda base; plotting was not included in the cleaned source-table scripts
+Python package	seaborn	0.13.2	Detected in Anaconda base; plotting was not included in the cleaned source-table scripts
+Python package	scikit-learn	1.8.0	Detected in Anaconda base; used in upstream dimensionality workflows when needed
+Python package	networkx	3.6.1	Detected in Anaconda base; used in network-oriented upstream workflows when needed
+Python package	anndata	0.12.11	Detected in Anaconda base; used in upstream single-cell workflows
+Python package	scanpy	1.12.1	Detected in Anaconda base; used in upstream single-cell workflows
+Python package	openpyxl	3.1.5	Detected in Anaconda base and bundled Python runtime
+Python package	lifelines	not detected in current Anaconda base	Optional; only needed for Python helper Cox functions outside the formal Figure 8b R survival workflow
+Python package	pyarrow	not detected in current Anaconda base	Optional depending on input format
+Python package	pyranges	not detected in current Anaconda base	Preferred optional interval-overlap engine; vectorized fallback scripts were used when unavailable
+Python package	pyBigWig	not detected in current Windows Anaconda base	Available in the WSL track-rendering environment according to Figure 5 analysis records
+R runtime	R	4.5.2	R version checked in current audit session
+R package	survival	3.8.3	Detected; required for the formal Figure 8b Cox workflow
+R package	GenomicRanges	1.62.1	Detected
+R package	rtracklayer	1.70.1	Detected
+R package	MCPcounter	1.1.0	Detected
+R package	survminer	not detected in current R library	Optional plotting package
+R package	rms	not detected in current R library	Optional modeling package
+R package	forestplot	not detected in current R library	Optional plotting package
+R package	ComplexHeatmap	not detected in current R library	Optional plotting package
+R package	circlize	not detected in current R library	Optional plotting package
+R package	estimate	not detected in current R library	ESTIMATE was not used as a completed formal deconvolution layer
+Genome-track tool	pyGenomeTracks	3.9	Recorded in Figure 5 analysis notes for WSL track-rendering environment
+Operating context	Windows	available	Current source-package audit session
+Operating context	WSL/Ubuntu	used upstream	Figure 5 track rendering and Figure 8 single-cell workflows were documented in upstream analysis notes
+Review analyses	Python	3.12.14 (first round, revision_tables/); 3.13.11 (later analyses)	Runs of revision_tables/scripts and revision_analyses/
+Review analyses	pandas	3.0.1 (first round); 2.3.3 (later analyses)	
+Review analyses	SciPy	1.18.1	
+Review analyses	NetworkX	3.6.1	Network and motif analyses (A13, A17, A19, A22, portable/)
+Review analyses	lifelines	0.30.3	Cox models of the first round and A0
+Review analyses	pyliftover	0.4.1	Lift-over cross-check in A16
+Review analyses	Node.js with @gmod/bbi	used	bigWig signal quantification in A16 (a16_signal_quantify.mjs)

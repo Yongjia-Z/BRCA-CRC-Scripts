@@ -1,0 +1,40 @@
+source_table,regulator_TF,ESR1,GATA3,PGR,PBX1,FOXA1,SPDEF,ELF3,EHF,AR,TFAP2C,RUNX1,TP63,FOXC1,TF,weighted_self_overlap_ln,note
+figure1-4/figure4/figure4c.tsv,ESR1,5.442417710521793,3.58351893845611,0.0,0.0,5.513428746164983,3.871201010907891,5.0238805208462765,2.19722457733622,3.4657359027997265,5.66988092298052,0.6931471805599453,1.791759469228055,4.859812404361672,,,
+figure1-4/figure4/figure4c.tsv,GATA3,3.332204510175204,2.19722457733622,0.0,0.6931471805599453,3.258096538021482,1.9459101490553128,2.8903717578961645,2.3978952727983707,1.3862943611198906,2.833213344056216,0.0,0.6931471805599453,2.302585092994046,,,
+figure1-4/figure4/figure4c.tsv,PGR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,PBX1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,FOXA1,4.31748811353631,3.258096538021482,0.0,0.6931471805599453,4.406719247264253,4.418840607796598,3.6635616461296463,3.49650756146648,0.6931471805599453,3.6635616461296463,1.791759469228055,3.1780538303479458,1.9459101490553128,,,
+figure1-4/figure4/figure4c.tsv,SPDEF,1.6094379124341005,1.3862943611198906,0.0,0.0,0.0,0.6931471805599453,1.3862943611198906,0.0,0.0,1.0986122886681098,0.0,0.0,0.6931471805599453,,,
+figure1-4/figure4/figure4c.tsv,ELF3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,EHF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,AR,1.3862943611198906,0.6931471805599453,0.0,0.0,1.0986122886681098,0.0,0.6931471805599453,0.0,0.6931471805599453,1.3862943611198906,0.0,0.0,0.6931471805599453,,,
+figure1-4/figure4/figure4c.tsv,TFAP2C,1.0986122886681098,0.0,0.0,0.0,1.9459101490553128,0.0,1.3862943611198906,1.3862943611198906,1.6094379124341005,2.079441541679836,0.0,0.6931471805599453,0.6931471805599453,,,
+figure1-4/figure4/figure4c.tsv,RUNX1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,TP63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c.tsv,FOXC1,0.0,0.0,0.0,0.0,0.0,2.19722457733622,0.0,2.833213344056216,0.0,0.0,0.0,2.19722457733622,2.833213344056216,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,ESR1,,3.58351893845611,0.0,0.0,5.513428746164983,3.871201010907891,5.0238805208462765,2.19722457733622,3.4657359027997265,5.66988092298052,0.6931471805599453,1.791759469228055,4.859812404361672,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,GATA3,3.332204510175204,,0.0,0.6931471805599453,3.258096538021482,1.9459101490553128,2.8903717578961645,2.3978952727983707,1.3862943611198906,2.833213344056216,0.0,0.6931471805599453,2.302585092994046,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,PGR,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,PBX1,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,FOXA1,4.31748811353631,3.258096538021482,0.0,0.6931471805599453,,4.418840607796598,3.6635616461296463,3.49650756146648,0.6931471805599453,3.6635616461296463,1.791759469228055,3.1780538303479458,1.9459101490553128,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,SPDEF,1.6094379124341005,1.3862943611198906,0.0,0.0,0.0,,1.3862943611198906,0.0,0.0,1.0986122886681098,0.0,0.0,0.6931471805599453,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,ELF3,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,EHF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,AR,1.3862943611198906,0.6931471805599453,0.0,0.0,1.0986122886681098,0.0,0.6931471805599453,0.0,,1.3862943611198906,0.0,0.0,0.6931471805599453,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,TFAP2C,1.0986122886681098,0.0,0.0,0.0,1.9459101490553128,0.0,1.3862943611198906,1.3862943611198906,1.6094379124341005,,0.0,0.6931471805599453,0.6931471805599453,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,RUNX1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,TP63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,,,
+figure1-4/figure4/figure4c_display_offdiagonal.tsv,FOXC1,0.0,0.0,0.0,0.0,0.0,2.19722457733622,0.0,2.833213344056216,0.0,0.0,0.0,2.19722457733622,,,,
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,ESR1,5.442417710521793,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,GATA3,2.19722457733622,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,PGR,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,PBX1,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,FOXA1,4.406719247264253,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,SPDEF,0.6931471805599453,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,ELF3,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,EHF,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,AR,0.6931471805599453,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,TFAP2C,2.079441541679836,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,RUNX1,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,TP63,0.0,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.
+figure1-4/figure4/figure4c_diagonal_self_binding.tsv,,,,,,,,,,,,,,,FOXC1,2.833213344056216,Diagonal value represents putative autoregulatory/self-locus occupancy and is not interpreted as independent cross-regulatory support.

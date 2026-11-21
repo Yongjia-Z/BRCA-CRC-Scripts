@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "BRCA-CRC-Scripts: analysis code for subtype-specific core transcriptional regulatory circuitry in breast cancer"
+license: MIT
+repository-code: "https://github.com/Yongjia-Z/BRCA-CRC-Scripts"
+authors:
+  - family-names: Zeng
+    given-names: Yongjia
+  - family-names: Shi
+    given-names: Songfu
+  - family-names: Wang
+    given-names: Fan
+  - family-names: Zhao
+    given-names: Lixin
+  - family-names: Ye
+    given-names: Lingxi
+  - family-names: Wu
+    given-names: Xiaodi
+  - family-names: Yan
+    given-names: Dong
+preferred-citation:
+  type: article
+  title: "Subtype-specific Core Transcriptional Regulatory Circuitry Links Transcriptional States, Chromatin Context, and Functional Dependencies in Breast Cancer"
+  journal: "Functional & Integrative Genomics"
+  authors:
+    - family-names: Zeng
+      given-names: Yongjia
+    - family-names: Shi
+      given-names: Songfu
+    - family-names: Wang
+      given-names: Fan
+    - family-names: Zhao
+      given-names: Lixin
+    - family-names: Ye
+      given-names: Lingxi
+    - family-names: Wu
+      given-names: Xiaodi
+    - family-names: Yan
+      given-names: Dong

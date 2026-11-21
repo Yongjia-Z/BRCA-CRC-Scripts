@@ -1,0 +1,25 @@
+biosample_query	experiment_accession	file_accession	file_format	file_format_type	output_type	assembly	biological_replicates	preferred_default	href	download_url
+MCF-7	ENCSR000EWR	ENCFF997VHE	bed	narrowPeak	peaks	GRCh38	2		/files/ENCFF997VHE/@@download/ENCFF997VHE.bed.gz	https://www.encodeproject.org/files/ENCFF997VHE/@@download/ENCFF997VHE.bed.gz
+MCF-7	ENCSR000EWR	ENCFF223CXM	bed	narrowPeak	replicated peaks	hg19	1,2	True	/files/ENCFF223CXM/@@download/ENCFF223CXM.bed.gz	https://www.encodeproject.org/files/ENCFF223CXM/@@download/ENCFF223CXM.bed.gz
+MCF-7	ENCSR000EWR	ENCFF370RFF	bed	narrowPeak	peaks	hg19	2		/files/ENCFF370RFF/@@download/ENCFF370RFF.bed.gz	https://www.encodeproject.org/files/ENCFF370RFF/@@download/ENCFF370RFF.bed.gz
+MCF-7	ENCSR000EWR	ENCFF014WND	bed	narrowPeak	pseudoreplicated peaks	GRCh38	2		/files/ENCFF014WND/@@download/ENCFF014WND.bed.gz	https://www.encodeproject.org/files/ENCFF014WND/@@download/ENCFF014WND.bed.gz
+MCF-7	ENCSR000EWR	ENCFF340KSH	bed	narrowPeak	pseudoreplicated peaks	GRCh38	1,2	True	/files/ENCFF340KSH/@@download/ENCFF340KSH.bed.gz	https://www.encodeproject.org/files/ENCFF340KSH/@@download/ENCFF340KSH.bed.gz
+MCF-7	ENCSR000EWR	ENCFF187RUK	bed	narrowPeak	peaks	hg19	1		/files/ENCFF187RUK/@@download/ENCFF187RUK.bed.gz	https://www.encodeproject.org/files/ENCFF187RUK/@@download/ENCFF187RUK.bed.gz
+MCF-7	ENCSR000EWR	ENCFF378SCK	bed	narrowPeak	peaks	hg19	1,2		/files/ENCFF378SCK/@@download/ENCFF378SCK.bed.gz	https://www.encodeproject.org/files/ENCFF378SCK/@@download/ENCFF378SCK.bed.gz
+MCF-7	ENCSR000EWR	ENCFF152ARX	bed	narrowPeak	peaks	GRCh38	1,2		/files/ENCFF152ARX/@@download/ENCFF152ARX.bed.gz	https://www.encodeproject.org/files/ENCFF152ARX/@@download/ENCFF152ARX.bed.gz
+MCF-7	ENCSR000EWR	ENCFF024TEH	bed	narrowPeak	replicated peaks	GRCh38	1,2	True	/files/ENCFF024TEH/@@download/ENCFF024TEH.bed.gz	https://www.encodeproject.org/files/ENCFF024TEH/@@download/ENCFF024TEH.bed.gz
+MCF-7	ENCSR000EWR	ENCFF621API	bed	narrowPeak	peaks	GRCh38	1		/files/ENCFF621API/@@download/ENCFF621API.bed.gz	https://www.encodeproject.org/files/ENCFF621API/@@download/ENCFF621API.bed.gz
+MCF-7	ENCSR000EWR	ENCFF040YMD	bed	narrowPeak	replicated peaks	GRCh38	1,2		/files/ENCFF040YMD/@@download/ENCFF040YMD.bed.gz	https://www.encodeproject.org/files/ENCFF040YMD/@@download/ENCFF040YMD.bed.gz
+MCF-7	ENCSR000EWR	ENCFF840OSY	bed	narrowPeak	pseudoreplicated peaks	GRCh38	1		/files/ENCFF840OSY/@@download/ENCFF840OSY.bed.gz	https://www.encodeproject.org/files/ENCFF840OSY/@@download/ENCFF840OSY.bed.gz
+MCF-7	ENCSR752UOD	ENCFF975BFU	bed	narrowPeak	replicated peaks	GRCh38	1,2		/files/ENCFF975BFU/@@download/ENCFF975BFU.bed.gz	https://www.encodeproject.org/files/ENCFF975BFU/@@download/ENCFF975BFU.bed.gz
+MCF-7	ENCSR752UOD	ENCFF179YAF	bed	narrowPeak	pseudoreplicated peaks	GRCh38	1		/files/ENCFF179YAF/@@download/ENCFF179YAF.bed.gz	https://www.encodeproject.org/files/ENCFF179YAF/@@download/ENCFF179YAF.bed.gz
+MCF-7	ENCSR752UOD	ENCFF784QFH	bed	narrowPeak	replicated peaks	GRCh38	1,2	True	/files/ENCFF784QFH/@@download/ENCFF784QFH.bed.gz	https://www.encodeproject.org/files/ENCFF784QFH/@@download/ENCFF784QFH.bed.gz
+MCF-7	ENCSR752UOD	ENCFF132IWN	bed	narrowPeak	replicated peaks	hg19	1,2	True	/files/ENCFF132IWN/@@download/ENCFF132IWN.bed.gz	https://www.encodeproject.org/files/ENCFF132IWN/@@download/ENCFF132IWN.bed.gz
+MCF-7	ENCSR752UOD	ENCFF208IPB	bed	narrowPeak	peaks	hg19	1		/files/ENCFF208IPB/@@download/ENCFF208IPB.bed.gz	https://www.encodeproject.org/files/ENCFF208IPB/@@download/ENCFF208IPB.bed.gz
+MCF-7	ENCSR752UOD	ENCFF831KZM	bed	narrowPeak	peaks	hg19	1,2		/files/ENCFF831KZM/@@download/ENCFF831KZM.bed.gz	https://www.encodeproject.org/files/ENCFF831KZM/@@download/ENCFF831KZM.bed.gz
+MCF-7	ENCSR752UOD	ENCFF955DDJ	bed	narrowPeak	peaks	GRCh38	2		/files/ENCFF955DDJ/@@download/ENCFF955DDJ.bed.gz	https://www.encodeproject.org/files/ENCFF955DDJ/@@download/ENCFF955DDJ.bed.gz
+MCF-7	ENCSR752UOD	ENCFF710ZWF	bed	narrowPeak	pseudoreplicated peaks	GRCh38	2		/files/ENCFF710ZWF/@@download/ENCFF710ZWF.bed.gz	https://www.encodeproject.org/files/ENCFF710ZWF/@@download/ENCFF710ZWF.bed.gz
+MCF-7	ENCSR752UOD	ENCFF537JMI	bed	narrowPeak	peaks	hg19	2		/files/ENCFF537JMI/@@download/ENCFF537JMI.bed.gz	https://www.encodeproject.org/files/ENCFF537JMI/@@download/ENCFF537JMI.bed.gz
+MCF-7	ENCSR752UOD	ENCFF364RLA	bed	narrowPeak	peaks	GRCh38	1		/files/ENCFF364RLA/@@download/ENCFF364RLA.bed.gz	https://www.encodeproject.org/files/ENCFF364RLA/@@download/ENCFF364RLA.bed.gz
+MCF-7	ENCSR752UOD	ENCFF491LQY	bed	narrowPeak	pseudoreplicated peaks	GRCh38	1,2	True	/files/ENCFF491LQY/@@download/ENCFF491LQY.bed.gz	https://www.encodeproject.org/files/ENCFF491LQY/@@download/ENCFF491LQY.bed.gz
+MCF-7	ENCSR752UOD	ENCFF314USN	bed	narrowPeak	peaks	GRCh38	1,2		/files/ENCFF314USN/@@download/ENCFF314USN.bed.gz	https://www.encodeproject.org/files/ENCFF314USN/@@download/ENCFF314USN.bed.gz

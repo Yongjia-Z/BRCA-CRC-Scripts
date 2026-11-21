@@ -1,0 +1,132 @@
+srx	cell_type	title	keep	reason
+SRX1012615	T-47D	GSM1669032: JC1556 T47D PR Full Media 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012616	T-47D	GSM1669033: JC1566 T47D PR Full Media 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012617	T-47D	GSM1669034: JC1576 T47D PR Full Media 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012618	T-47D	GSM1669035: JC1557 T47D PR Progesterone 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012619	T-47D	GSM1669036: JC1567 T47D PR Progesterone 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012620	T-47D	GSM1669037: JC1577 T47D PR Progesterone 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012621	T-47D	GSM1669038: JC1558 T47D PR R5020 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012622	T-47D	GSM1669039: JC1568 T47D PR R5020 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012623	T-47D	GSM1669040: JC1578 T47D PR R5020 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012650	MCF-7	GSM1669067: JC1526 MCF7 PR Full Media 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012651	MCF-7	GSM1669068: JC1536 MCF7 PR Full Media 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012652	MCF-7	GSM1669069: JC1546 MCF7 PR Full Media 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012653	MCF-7	GSM1669070: JC1527 MCF7 PR Progesterone 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012654	MCF-7	GSM1669071: JC1537 MCF7 PR Progesterone 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012655	MCF-7	GSM1669072: JC1547 MCF7 PR Progesterone 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012656	MCF-7	GSM1669073: JC1375 MCF7 PR R5020 3hr r0; Homo sapiens; ChIP-Seq	True	
+SRX1012657	MCF-7	GSM1669074: JC1376 MCF7 PR R5020 24hr r0; Homo sapiens; ChIP-Seq	True	
+SRX1012658	MCF-7	GSM1669075: JC1528 MCF7 PR R5020 3hr r1; Homo sapiens; ChIP-Seq	True	
+SRX1012659	MCF-7	GSM1669076: JC1538 MCF7 PR R5020 3hr r2; Homo sapiens; ChIP-Seq	True	
+SRX1012660	MCF-7	GSM1669077: JC1548 MCF7 PR R5020 3hr r3; Homo sapiens; ChIP-Seq	True	
+SRX1012690	MCF-7	GSM1669090: JC2346 MCF7 PR 3hr Vehicle r1; Homo sapiens; ChIP-Seq	True	
+SRX1012691	MCF-7	GSM1669091: JC2347 MCF7 PR 3hr E2 r1; Homo sapiens; ChIP-Seq	True	
+SRX1012692	MCF-7	GSM1669092: JC2348 MCF7 PR 3hr PG r1; Homo sapiens; ChIP-Seq	True	
+SRX1012693	MCF-7	GSM1669093: JC2349 MCF7 PR 3hr E2+PG r1; Homo sapiens; ChIP-Seq	True	
+SRX1012694	MCF-7	GSM1669094: JC2350 MCF7 PR 3hr Vehicle r2; Homo sapiens; ChIP-Seq	True	
+SRX1012695	MCF-7	GSM1669095: JC2351 MCF7 PR 3hr E2 r2; Homo sapiens; ChIP-Seq	True	
+SRX1012696	MCF-7	GSM1669096: JC2352 MCF7 PR 3hr PG r2; Homo sapiens; ChIP-Seq	True	
+SRX1012697	MCF-7	GSM1669097: JC2353 MCF7 PR 3hr E2+PG r2; Homo sapiens; ChIP-Seq	True	
+SRX1012698	MCF-7	GSM1669098: JC2354 MCF7 PR 3hr Vehicle r3; Homo sapiens; ChIP-Seq	True	
+SRX1012699	MCF-7	GSM1669099: JC2355 MCF7 PR 3hr E2 r3; Homo sapiens; ChIP-Seq	True	
+SRX1012700	MCF-7	GSM1669100: JC2356 MCF7 PR 3hr PG r3; Homo sapiens; ChIP-Seq	True	
+SRX1012701	MCF-7	GSM1669101: JC2357 MCF7 PR 3hr E2+PG r3; Homo sapiens; ChIP-Seq	True	
+SRX1012711	T-47D	GSM1669114: JC2370 T47D PR 3hr Vehicle r1; Homo sapiens; ChIP-Seq	True	
+SRX1012712	T-47D	GSM1669115: JC2371 T47D PR 3hr E2 r1; Homo sapiens; ChIP-Seq	True	
+SRX1012713	T-47D	GSM1669116: JC2372 T47D PR 3hr PG r1; Homo sapiens; ChIP-Seq	True	
+SRX1012714	T-47D	GSM1669117: JC2373 T47D PR 3hr E2+PG r1; Homo sapiens; ChIP-Seq	True	
+SRX1012715	T-47D	GSM1669118: JC2374 T47D PR 3hr Vehicle r2; Homo sapiens; ChIP-Seq	True	
+SRX1012716	T-47D	GSM1669119: JC2375 T47D PR 3hr E2 r2; Homo sapiens; ChIP-Seq	True	
+SRX1012717	T-47D	GSM1669120: JC2376 T47D PR 3hr PG r2; Homo sapiens; ChIP-Seq	True	
+SRX1012718	T-47D	GSM1669121: JC2377 T47D PR 3hr E2+PG r2; Homo sapiens; ChIP-Seq	True	
+SRX1012719	T-47D	GSM1669122: JC2378 T47D PR 3hr Vehicle r3; Homo sapiens; ChIP-Seq	True	
+SRX1012720	T-47D	GSM1669123: JC2379 T47D PR 3hr E2 r3; Homo sapiens; ChIP-Seq	True	
+SRX1012721	T-47D	GSM1669124: JC2380 T47D PR 3hr PG r3; Homo sapiens; ChIP-Seq	True	
+SRX1012722	T-47D	GSM1669125: JC2381 T47D PR 3hr E2+PG r3; Homo sapiens; ChIP-Seq	True	
+SRX1012751	MCF-7	GSM1669146: JC2578 Xenograft MCF7 PR Vehicle r1; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012752	MCF-7	GSM1669147: JC2579 Xenograft MCF7 PR Vehicle r2; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012753	MCF-7	GSM1669148: JC2580 Xenograft MCF7 PR E2+PG r3; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012754	MCF-7	GSM1669149: JC2581 Xenograft MCF7 PR E2+PG r4; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012755	MCF-7	GSM1669150: JC2582 Xenograft MCF7 PR E2+PG r5; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012756	MCF-7	GSM1669151: JC2583 Xenograft MCF7 PR E2+PG r6; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012757	MCF-7	GSM1669152: JC2584 Xenograft MCF7 PR E2+PG r7; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012758	MCF-7	GSM1669153: JC2585 Xenograft MCF7 PR E2+PG r8; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012759	MCF-7	GSM1669154: JC2586 Xenograft MCF7 PR E2 r9; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012760	MCF-7	GSM1669155: JC2587 Xenograft MCF7 PR E2 r10; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012761	MCF-7	GSM1669156: JC2588 Xenograft MCF7 PR E2 r11; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012762	MCF-7	GSM1669157: JC2589 Xenograft MCF7 PR E2 r12; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012763	MCF-7	GSM1669158: JC2590 Xenograft MCF7 PR E2 r13; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX1012764	MCF-7	GSM1669159: JC2591 Xenograft MCF7 PR E2 r14; Homo sapiens; ChIP-Seq	False	MCF-7 xenograft in NSG mice (GSE68359 series), not a cell line in culture
+SRX11374758	T-47D	GSM5425947: T47D T0 ChIP PR rep1; Homo sapiens; ChIP-Seq	True	
+SRX11374759	T-47D	GSM5425948: T47D T30 R5020 0,1nM ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374760	T-47D	GSM5425949: T47D T30 R5020 0,05nM ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374761	T-47D	GSM5425950: T47D T30 R5020 0,1 nM ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374762	T-47D	GSM5425951: T47D T30 R5020 0,5 nM ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374763	T-47D	GSM5425952: T47D T30 0,05nM R5020 ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374764	T-47D	GSM5425953: T47D T30 0,1nM R5020 ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374765	T-47D	GSM5425954: T47D T30 0,5nM R5020 ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374766	T-47D	GSM5425955: T47D T30 1nM R5020 ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374767	T-47D	GSM5425956: T47D T30 10nM R5020 ChIP PR; Homo sapiens; ChIP-Seq	True	
+SRX11374768	T-47D	GSM5425957: T47D T0 ChIP PR rep2; Homo sapiens; ChIP-Seq	True	
+SRX1709971	T-47D	GSM2125116: T47D-A Vehicle 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709973	T-47D	GSM2125118: T47D-A E2 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709975	T-47D	GSM2125120: T47D-A R5020 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709977	T-47D	GSM2125122: T47D-A E2+R5020 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709983	T-47D	GSM2125128: T47D-B Vehicle 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709985	T-47D	GSM2125130: T47D-B E2 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709987	T-47D	GSM2125132: T47D-B R5020 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX1709989	T-47D	GSM2125134: T47D-B E2+R5020 45 mins PR ChIP; Homo sapiens; ChIP-Seq	False	engineered PR isoform-specific T47D models (PRA+/PRB- or PRA-/PRB+)
+SRX185709	T-47D	GSM999793: PR-binding T47D ChIP-Seq; Homo sapiens; ChIP-Seq	True	
+SRX193384	T-47D	GSM1017847: PR-T0 ChIPSeq; Homo sapiens; ChIP-Seq	False	failed run: 0.1-3.3% mapped, no peaks
+SRX193385	T-47D	GSM1017848: PR-R5 ChIPSeq; Homo sapiens; ChIP-Seq	False	failed run: 0.1-3.3% mapped, no peaks
+SRX193386	T-47D	GSM1017849: PR-R30 ChIPSeq; Homo sapiens; ChIP-Seq	False	failed run: 0.1-3.3% mapped, no peaks
+SRX193387	T-47D	GSM1017850: PR-R60 ChIPSeq; Homo sapiens; ChIP-Seq	False	failed run: 0.1-3.3% mapped, no peaks
+SRX193388	T-47D	GSM1017851: PR-R360 ChIPSeq; Homo sapiens; ChIP-Seq	False	failed run: 0.1-3.3% mapped, no peaks
+SRX20830469	T-47D	GSM7519267: T47D Clone28 PR DMSO rep1; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830470	T-47D	GSM7519268: T47D Clone28 PR DMSO rep2; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830471	T-47D	GSM7519269: T47D Clone28 PR DMSO rep3; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830472	T-47D	GSM7519270: T47D Clone28 PR DMSO rep4; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830473	T-47D	GSM7519271: T47D Clone28 PR dTAG rep1; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830474	T-47D	GSM7519272: T47D Clone28 PR dTAG rep2; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830475	T-47D	GSM7519273: T47D Clone28 PR dTAG rep3; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX20830476	T-47D	GSM7519274: T47D Clone28 PR dTAG rep4; Homo sapiens; ChIP-Seq	False	engineered T47D dTAG-TRPS1 clone 28; includes TRPS1 degradation
+SRX2871358	T-47D	GSM2644587: ChIP-seq PR T47Dflp Ve rep1; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871359	T-47D	GSM2644588: ChIP-seq PR T47Dflp Ve rep2; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871360	T-47D	GSM2644589: ChIP-seq PR T47Dflp P4 rep1; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871361	T-47D	GSM2644590: ChIP-seq PR T47Dflp P4 rep2; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871362	T-47D	GSM2644591: ChIP-seq PR CR3flp Ve rep1; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871363	T-47D	GSM2644592: ChIP-seq PR CR3flp Ve rep2; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871364	T-47D	GSM2644593: ChIP-seq PR CR3flp P4 rep1; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2871365	T-47D	GSM2644594: ChIP-seq PR CR3flp P4 rep2; Homo sapiens; ChIP-Seq	False	engineered T47D Flp/CR3 lines (wt/R330fsl)
+SRX2915387	T-47D	GSM2666985: T47D Dose Ser294 Veh 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	phospho-Ser294 PR antibody, not total PR
+SRX2915388	T-47D	GSM2666986: T47D Dose Ser294 Low 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	phospho-Ser294 PR antibody, not total PR
+SRX2915389	T-47D	GSM2666987: T47D Dose Ser294 High 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	phospho-Ser294 PR antibody, not total PR
+SRX2915390	T-47D	GSM2666988: T47D Dose PR SC Veh 45mins ChIP-seq; Homo sapiens; ChIP-Seq	True	
+SRX2915391	T-47D	GSM2666989: T47D Dose PR SC Low 45mins ChIP-seq; Homo sapiens; ChIP-Seq	True	
+SRX2915392	T-47D	GSM2666990: T47D Dose PR SC High 45mins ChIP-seq; Homo sapiens; ChIP-Seq	True	
+SRX2915393	T-47D	GSM2666991: T47D Dose PR KD68 Veh 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	KD68 label not interpretable from the metadata; excluded as a precaution
+SRX2915394	T-47D	GSM2666992: T47D Dose PR KD68 Low 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	KD68 label not interpretable from the metadata; excluded as a precaution
+SRX2915395	T-47D	GSM2666993: T47D Dose PR KD68 High 45mins ChIP-seq; Homo sapiens; ChIP-Seq	False	KD68 label not interpretable from the metadata; excluded as a precaution
+SRX365497	T-47D	GSM1245253: PR-ChIP-seq; Homo sapiens; ChIP-Seq	True	
+SRX3990976	T-47D	GSM3110056: T47D VC PR-1; Homo sapiens; ChIP-Seq	True	
+SRX3990978	T-47D	GSM3110058: T47D VC PR-2; Homo sapiens; ChIP-Seq	True	
+SRX3990980	T-47D	GSM3110060: T47D VC PR-3; Homo sapiens; ChIP-Seq	True	
+SRX3990982	T-47D	GSM3110062: T47D R5020 PR-1; Homo sapiens; ChIP-Seq	True	
+SRX3990984	T-47D	GSM3110064: T47D R5020 PR-2; Homo sapiens; ChIP-Seq	True	
+SRX3990986	T-47D	GSM3110066: T47D R5020 PR-3; Homo sapiens; ChIP-Seq	True	
+SRX3990988	T-47D	GSM3110068: T47D TPA PR-1; Homo sapiens; ChIP-Seq	True	
+SRX3990990	T-47D	GSM3110070: T47D TPA PR-2; Homo sapiens; ChIP-Seq	True	
+SRX3990992	T-47D	GSM3110072: T47D TPA PR-3; Homo sapiens; ChIP-Seq	True	
+SRX3990994	T-47D	GSM3110074: T47D R5020+TPA PR-1; Homo sapiens; ChIP-Seq	True	
+SRX3990996	T-47D	GSM3110076: T47D R5020+TPA PR-2; Homo sapiens; ChIP-Seq	True	
+SRX3990998	T-47D	GSM3110078: T47D R5020+TPA PR-3; Homo sapiens; ChIP-Seq	True	
+SRX5401863	T-47D	GSM3615489: PR T0 A1 2 ChIPseq; Homo sapiens; ChIP-Seq	False	T47D reporter subclones (A1/2, MTVL)
+SRX5401864	T-47D	GSM3615490: PR T60 R5020 A1 2 ChIPseq; Homo sapiens; ChIP-Seq	False	T47D reporter subclones (A1/2, MTVL)
+SRX5401865	T-47D	GSM3615491: PR T0 MTVL WT ChIPseq; Homo sapiens; ChIP-Seq	False	T47D reporter subclones (A1/2, MTVL)
+SRX5401866	T-47D	GSM3615492: PR T60 R5020 MTVL WT ChIPseq; Homo sapiens; ChIP-Seq	False	T47D reporter subclones (A1/2, MTVL)
+SRX589472	ZR-75-1	ZR-75-1 ChIP seq INPUT channel	False	input channel, not a PR ChIP
+SRX594728	ZR-75-1	Estrogen primed, progesterone treated cells immunoprecipitated with PR antibody	True	
+SRX6058753	T-47D	GSM3884751: ChIP-PR – Progesterone; Homo sapiens; ChIP-Seq	True	
+SRX6058756	T-47D	GSM3884754: ChIP-PR – Untreated; Homo sapiens; ChIP-Seq	True	
+SRX6058759	T-47D	GSM3884757: ChIP-PR - Untreated – siControl; Homo sapiens; ChIP-Seq	True	
+SRX6058760	T-47D	GSM3884758: ChIP-PR - Progesterone – siControl; Homo sapiens; ChIP-Seq	True	
